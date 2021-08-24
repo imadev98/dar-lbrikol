@@ -318,8 +318,8 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     transition: all 0.3s ease-in-out;
 }
 .navbar-fixed-top.header-section{
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.10);
+    background-color: rgb(255, 247, 237);
+    box-shadow: 0 0 10px rgba(255, 141, 2, 0.46);
     padding: 5px 0;
     transition: all 0.3s ease-in-out;
 }
